@@ -1,1 +1,2 @@
 # newjourney
+# My first repository
